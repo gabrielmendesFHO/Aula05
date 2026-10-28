@@ -1,4 +1,4 @@
-player = {
+jogador = {
 	"name": "Ice Witch",
 	"age": 23,
 	"avaliable": True,
@@ -11,4 +11,4 @@ player = {
 } 
 
 
-print(player["age"])
+print(jogador["age"])
